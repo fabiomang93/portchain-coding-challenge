@@ -1,4 +1,4 @@
-# ShopFully Assignment
+# Portchain Coding Challenge
 
 A coding challenge to assest development skills.
 
